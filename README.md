@@ -1,7 +1,7 @@
 # DellTools
 Скрипты и инструменты для работы с серверами Dell
 
-## IDRAC 8 SSL Generator
+## iDRAC 8 SSL Generator
 Создаем ssl сертификат, чтобы idrac открывался у нас через https и не делал мозг с консолью.
 
 Файл скрипта: `idrac8-cert-generator.ps1`
